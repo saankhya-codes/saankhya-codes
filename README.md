@@ -13,8 +13,8 @@ A **DATA SCIENCE** ***Enthusiast*** 🚀.
 
 - 👨🏽‍💻 I'm currently an M.Tech in Artificial Intelligence student at IISc, Bangalore. 
 - 🌱 My area of interest is in Artificial Intelligence and Image processing. I often code in Python, C/C++, MATLAB, and R.
-- 🤔 I've done a couple of projects based on deep learning. One of my works has been published in IEEE Xplore digital library. I aspire to be a quality data scientist.
-- 💬 Here, you can find various machine learning, deep learning, data science, and DSA projects
+- 🤔 I've done various projects based on AI/ML. One of my works has been published in IEEE Xplore digital library. I aspire to be a quality data scientist.
+- 💬 Here, you can find various machine learning, deep learning, data science, and DSA projects.
 - 📫 You can contact me here - [Email](mailto:saankhyas@iisc.ac.in), [LinkedIn](https://www.linkedin.com/in/sm823zw/)
 
 
