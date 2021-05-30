@@ -15,7 +15,7 @@ A **DATA SCIENCE** ***Enthusiast*** 🚀.
 - 🌱 My area of interest is in Artificial Intelligence and Image processing. I often code in Python, C/C++, MATLAB, and R.
 - 🤔 I've done various projects based on AI/ML. One of my works has been published in IEEE Xplore digital library. I aspire to be a quality data scientist.
 - 💬 Here, you can find various projects and codes based on machine learning, deep learning, data science, and DSA.
-- 📫 You can contact me here - [Email](mailto:saankhyas@iisc.ac.in), [LinkedIn](https://www.linkedin.com/in/sm823zw/)
+- 📫 You can contact me here - [My Page](https://sm823zw.github.io/) [Email](mailto:saankhyas@iisc.ac.in), [LinkedIn](https://www.linkedin.com/in/sm823zw/)
 
 
 
