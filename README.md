@@ -18,11 +18,11 @@ A **DATA SCIENCE** ***Enthusiast*** 🚀.
 - 📫 You can contact me here - [My Page](https://sm823zw.github.io/), [Email](mailto:saankhyas@iisc.ac.in), [LinkedIn](https://www.linkedin.com/in/sm823zw/)
 
 
-
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=sm823zw&show_icons=true&hide_border=true&count_private=true&theme=onedark&icon_color=fad000" alt="Saankhya's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm823zw&count_private=true&theme=onedark" alt="sm823zw" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm823zw&count_private=true&theme=onedark" alt="sm823zw" /> -->
 
 
 
-Last Edited on: 28/05/2021<br />
+Last Edited on: 11/08/2021<br />
 Credits - [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
