@@ -25,4 +25,3 @@ A **DATA SCIENCE** ***Enthusiast*** 🚀.
 
 
 Last Edited on: 11/08/2021<br />
-Credits - [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
