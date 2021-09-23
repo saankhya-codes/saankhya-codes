@@ -12,9 +12,9 @@ A **MACHINE LEARNING and DATA SCIENCE** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I'm currently an M.Tech in Artificial Intelligence student at IISc, Bangalore. 
-- 🌱 My area of interest is in Machine Learning. I often code in Python, C/C++, MATLAB, and R.
+- 🌱 My area of interest is in ML and AI. I often code in Python, C/C++, MATLAB, and R.
 - 🤔 I've done various projects based on AI/ML. One of my works has been published in IEEE Xplore digital library.
-- 💬 Here, you can find various projects and codes based on machine learning, deep learning, data science, and DSA.
+- 💬 Here, you can find various projects and codes based on machine learning, deep learning, data science, data analytics, and DSA.
 - 📫 You can contact me here - [My Page](https://sm823zw.github.io/), [Email](mailto:saankhyas@iisc.ac.in), [LinkedIn](https://www.linkedin.com/in/sm823zw/)
 
 
