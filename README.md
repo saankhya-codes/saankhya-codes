@@ -11,7 +11,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I'm currently an M.Tech in Artificial Intelligence student at IISc, Bangalore. 
+- 👨🏽‍💻 I'm currently working as a Data Scientist at Ernst & Young GDS. I have completed my M.Tech in Artificial Intelligence from IISc, Bangalore. 
 - 🌱 My area of interest is in ML and AI. I often code in Python, C/C++, MATLAB, and R.
 - 🤔 I've done various projects based on AI/ML. One of my works has been published in IEEE Xplore digital library.
 - 💬 Here, you can find various projects and codes based on machine learning, deep learning, data science, data analytics, and DSA.
