@@ -19,5 +19,5 @@
 
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=sm823zw&show_icons=true&hide_border=true&count_private=true&theme=onedark&icon_color=fad000" alt="Saankhya's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm823zw&count_private=true&theme=onedark" alt="sm823zw" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=sm823zw&show_icons=true&hide_border=true&count_private=true&theme=onedark&icon_color=fad000" alt="Saankhya's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm823zw&count_private=true&theme=onedark" alt="sm823zw" />
